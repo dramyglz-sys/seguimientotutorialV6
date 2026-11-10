@@ -1,0 +1,6 @@
+{
+  "name": "Seguimiento Tutorial",
+  "description": "Aplicación para el seguimiento y toma de decisiones tutoriales en cursos en línea mediante análisis de cortes en Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
